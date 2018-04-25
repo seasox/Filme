@@ -1,3 +1,4 @@
 # Filme
 
-- Fight Club
+- Fight Club (jb)
+- Palermo Shooting (jl)
