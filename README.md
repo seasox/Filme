@@ -9,6 +9,8 @@
 |[Enemy](https://www.imdb.com/title/tt2316411/?ref_=nv_sr_1)                             |Joscha           |Pizza               |     
 |[Bladerunner 2049](https://www.imdb.com/title/tt1856101/?ref_=nm_knf_i1)                |Joscha           |Pizza               |
 |[Polytechnique](https://www.imdb.com/title/tt1194238/?ref_=fn_al_tt_1)                  |Joscha           |Pizza               |
+|[Stay](https://www.imdb.com/title/tt0371257/?ref_=nv_sr_2)                              |Joscha           |Pizza               |
+|[Der Himmel über Berlin](https://www.imdb.com/title/tt0093191/?ref_=nv_sr_1)            |Joscha           |Pizza               |
 |[The Killing of a Sacred Deer](https://www.imdb.com/title/tt5715874/?ref_=nv_sr_1)      |Joscha           |Pizza               |
 |[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/?ref_=nv_sr_1)|Joscha           |Pizza               |
 |[Ex Machina](https://www.imdb.com/title/tt0470752/?ref_=nv_sr_1)                        |Joscha           |Pizza               |
