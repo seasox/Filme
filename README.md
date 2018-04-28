@@ -36,4 +36,4 @@
 [The Stepford Wives](https://www.imdb.com/title/tt0327162/?ref_=nv_sr_1)                 |Joscha           |Pizza               |
 [Come and See](https://www.imdb.com/title/tt0091251/?ref_=nv_sr_1)                       |Joscha           |Pizza               |
 [Full Metal Jacket](https://www.imdb.com/title/tt0093058/)                               |Jeremy           |Pizza               |
-
+[The Emoji Movie](https://www.imdb.com/title/tt4877122/)                                 |Jeremy           |Erbrochenees
