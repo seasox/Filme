@@ -35,3 +35,5 @@
 [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nv_sr_1)                     |Joscha           |Pizza               |
 [The Stepford Wives](https://www.imdb.com/title/tt0327162/?ref_=nv_sr_1)                 |Joscha           |Pizza               |
 [Come and See](https://www.imdb.com/title/tt0091251/?ref_=nv_sr_1)                       |Joscha           |Pizza               |
+[Full Metal Jacket](https://www.imdb.com/title/tt0093058/)                               |Jeremy           |Pizza               |
+
