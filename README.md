@@ -13,10 +13,10 @@
 |[Stay](https://www.imdb.com/title/tt0371257/)                              |Joscha           |Amazon Video/iTunes |
 |[Der Himmel über Berlin](https://www.imdb.com/title/tt0093191/)            |Joscha           |iTunes (verfügbar)  |
 |[The Killing of a Sacred Deer](https://www.imdb.com/title/tt5715874/)      |Joscha           |Amazon Video/iTunes |
-|[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/)|Joscha           |iTunes (verügbar)   |
+|[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/)|Joscha           |iTunes (verfügbar)  |
 |[Ex Machina](https://www.imdb.com/title/tt0470752/)                        |Joscha           |DVD (verfügbar)     |
-|[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Joscha           |iTunes (verügbar)   |
-|[Prestige](https://www.imdb.com/title/tt0482571/)                          |Joscha           |iTunes (verügbar)   |
+|[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Joscha           |iTunes (verfügbar)  |
+|[Prestige](https://www.imdb.com/title/tt0482571/)                          |Joscha           |iTunes (verfügbar)  |
 |[Blue Velvet](https://www.imdb.com/title/tt0090756/)                       |Joscha           |DVD (verfügbar)     |
 |[The Hateful Eight](https://www.imdb.com/title/tt3460252/)                 |Joscha           |Netflix             |
 |[Reservoir Dogs](https://www.imdb.com/title/tt0105236/)                    |Joscha           |Amazon Video/iTunes |
