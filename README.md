@@ -36,9 +36,11 @@
 |[Come and See](https://www.imdb.com/title/tt0091251/)                      |Joscha           |Youtube             |
 |[Full Metal Jacket](https://www.imdb.com/title/tt0093058/)                 |Jeremy           |Netflix             |
 |[The Emoji Movie](https://www.imdb.com/title/tt4877122/)                   |Jeremy           |Erbrochenes         |
-|[A.I](https://www.imdb.com/title/tt0212720/)                               |Joscha           |iTunes (verfügbar)  |
+|[A.I.](https://www.imdb.com/title/tt0212720/)                              |Joscha           |iTunes (verfügbar)  |
 |[Mad Max Fury Road](https://www.imdb.com/title/tt1392190/)                 |Joscha           |DVD (verfügbar)     |
 |[Training Day](https://www.imdb.com/title/tt0139654/)                      |Joscha           |Amazon Video/iTunes |
 |[Tucker and Dale vs. Evil](https://www.imdb.com/title/tt1465522/)          |Joscha           |Netflix             |
 |[Ich seh, ich seh](https://www.imdb.com/title/tt3086442/)                  |Joscha           |Amazon Video/iTunes |
 |[The Shining](https://www.imdb.com/title/tt0081505/)                       |Joscha           |Netflix             |
+|[Chi-Raq](https://www.imdb.com/title/tt4594834/)                           |Joscha           |Prime               |
+|[Nightcrawler](https://www.imdb.com/title/tt4594834/)                      |Joscha           |Amazon Video/iTunes |
