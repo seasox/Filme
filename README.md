@@ -31,7 +31,7 @@
 |[Divines](https://www.imdb.com/title/tt4730986/)                           |Joscha           |Netflix             |
 |[Stadt der Gewalt](https://www.imdb.com/title/tt1075419/)                  |Joscha           |Amazon Video/iTunes |
 |[Brazil](https://www.imdb.com/title/tt0088846/)                            |Joscha           |Prime               |
-|[Shutter Island](https://www.imdb.com/title/tt1130884/)                    |Joscha           |DVD                 |
+|[Shutter Island](https://www.imdb.com/title/tt1130884/)                    |Joscha           |DVD (verfügbar)     |
 |[The Stepford Wives](https://www.imdb.com/title/tt0327162/)                |Joscha           |Amazon Video/iTunes |
 |[Come and See](https://www.imdb.com/title/tt0091251/)                      |Joscha           |Youtube             |
 |[Full Metal Jacket](https://www.imdb.com/title/tt0093058/)                 |Jeremy           |Netflix             |
