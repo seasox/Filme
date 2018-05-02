@@ -46,3 +46,6 @@
 |[Nightcrawler](https://www.imdb.com/title/tt4594834/)                      |Joscha           |Amazon Video/iTunes |
 |[Jazzclub](https://www.imdb.com/title/tt0388458/)                          |Joscha           |DVD (verfügbar)     |
 |[00 Schneider](https://www.imdb.com/title/tt0109000/)                      |Joscha           |DVD (verfügbar)     |
+|[Der Mann der zuviel wusste](https://www.imdb.com/title/tt0049470/)        |Joscha           |DVD (verfügbar)     |
+|[Psycho](https://www.imdb.com/title/tt0054215/)                            |Joscha           |DVD (verfügbar)     |
+|[Vertigo](https://www.imdb.com/title/tt0052357/)                           |Joscha           |DVD (verfügbar)     |
