@@ -42,3 +42,9 @@
 |[Der Mann der zuviel wusste](https://www.imdb.com/title/tt0049470/)        |Evi Stöbermann   |DVD (verfügbar)     |
 |[Psycho](https://www.imdb.com/title/tt0054215/)                            |Evi Stöbermann   |DVD (verfügbar)     |
 |[Vertigo](https://www.imdb.com/title/tt0052357/)                           |Evi Stöbermann   |DVD (verfügbar)     |
+|[Umleitung](https://www.imdb.com/title/tt0037638/)                         |Evi Stöbermann   |???                 |
+|[2001: Odyssey im Weltraum](https://www.imdb.com/title/tt0062622/)         |Evi Stöbermann   |Netflix             |
+|[Dr. Strangelove](https://www.imdb.com/title/tt0057012/)                   |Evi Stöbermann   |Prime               |
+|[Paths of Glory](https://www.imdb.com/title/tt0050825/)                    |Evi Stöbermann   |Amazon Video/iTunes |
+|[Sunset Boulevard](https://www.imdb.com/title/tt0043014/)                  |Evi Stöbermann   |Prime               |
+|[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
