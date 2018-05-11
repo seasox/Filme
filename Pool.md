@@ -48,3 +48,9 @@
 |[Paths of Glory](https://www.imdb.com/title/tt0050825/)                    |Evi Stöbermann   |Amazon Video/iTunes |
 |[Sunset Boulevard](https://www.imdb.com/title/tt0043014/)                  |Evi Stöbermann   |Prime               |
 |[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
+|[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
+|[I Kina spiser de hunde](https://www.imdb.com/title/tt0180748/)            |Ymerej           |Amazon Video (3,99) |
+|[De grønne slagtere](https://www.imdb.com/title/tt0342492/)                |Ymerej           |Amazon Video (3,99) |
+|[Se7en](https://www.imdb.com/title/tt0114369/)                             |Ymerej           |Netflix             |
+|[I Heart Huckabees](https://www.imdb.com/title/tt0356721/)                 |Ymerej           |Amazon Video (3,99) |
+|[Das schweigende Klassenzimmer](https://www.imdb.com/title/tt6576556/)     |Ymerej           |Kino :(             |
