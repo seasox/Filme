@@ -48,3 +48,5 @@
 |[Paths of Glory](https://www.imdb.com/title/tt0050825/)                    |Evi Stöbermann   |Amazon Video/iTunes |
 |[Sunset Boulevard](https://www.imdb.com/title/tt0043014/)                  |Evi Stöbermann   |Prime               |
 |[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
+|[The Big Lebowski](https://www.imdb.com/title/tt0118715/)                  |Evi Stöbermann   |Prime/Netflix       |
+|[Snowpiercer](https://www.imdb.com/title/tt1706620/)                       |Evi Stöbermann   |Prime/Netflix       |
