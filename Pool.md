@@ -50,3 +50,7 @@
 |[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
 |[The Big Lebowski](https://www.imdb.com/title/tt0118715/)                  |Evi Stöbermann   |Prime/Netflix       |
 |[Snowpiercer](https://www.imdb.com/title/tt1706620/)                       |Evi Stöbermann   |Prime/Netflix       |
+|[Nachtmahr](https://www.youtube.com/watch?v=xs9hZI4tNO8&pbjreload=10)      |Evi Stöbermann   |Amazon Video/iTunes |
+|[Source Code](https://www.imdb.com/title/tt0945513/)                       |Evi Stöbermann   |Prime/Netflix       |
+|[Munich](https://www.imdb.com/title/tt0408306/)                            |Evi Stöbermann   |Prime               |
+|[Minority Report](https://www.imdb.com/title/tt0181689/)                   |Evi Stöbermann   |Amazon Video/iTunes |
