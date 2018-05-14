@@ -54,3 +54,8 @@
 |[Source Code](https://www.imdb.com/title/tt0945513/)                       |Evi Stöbermann   |Prime/Netflix       |
 |[Munich](https://www.imdb.com/title/tt0408306/)                            |Evi Stöbermann   |Prime               |
 |[Minority Report](https://www.imdb.com/title/tt0181689/)                   |Evi Stöbermann   |Amazon Video/iTunes |
+|[Spiral/Uzumaki](https://www.imdb.com/title/tt0244870/)                    |Evi Stöbermann   |???                 |
+|[Long Dream](https://www.imdb.com/title/tt0390290/)                        |Evi Stöbermann   |???                 |
+|[Dreamscape](https://www.imdb.com/title/tt0087175/)                        |Evi Stöbermann   |DVD                 |
+
+
