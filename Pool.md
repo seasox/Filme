@@ -58,6 +58,10 @@
 |[Long Dream](https://www.imdb.com/title/tt0390290/)                        |Evi Stöbermann   |???                 |
 |[Dreamscape](https://www.imdb.com/title/tt0087175/)                        |Evi Stöbermann   |DVD                 |
 |[Teheran Tabu](https://www.imdb.com/title/tt5584796/)                      |Evi Stöbermann   |???                 |
+|[The Day the Earth Stood Still](https://www.imdb.com/title/tt0043456/)     |Evi Stöbermann   |Amazon Video/iTunes |
+|[Fitzcarraldo](https://www.imdb.com/title/tt0083946/)                      |Evi Stöbermann   |Prime               |
+|[The Whispering Star](https://www.imdb.com/title/tt4957538/)               |Evi Stöbermann   |Amazon Video/iTunes |
+
 
 
 
