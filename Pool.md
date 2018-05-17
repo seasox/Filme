@@ -21,7 +21,7 @@
 |[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann   |DVD (verfügbar)     |
 |[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |Amazon Video/iTunes |
 |[mother!](https://www.imdb.com/title/tt5109784/)                           |Evi Stöbermann   |Amazon Video/iTunes |
-|[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |noch kein Release   |
+|[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |ami amazon          |
 |[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
 |[Stadt der Gewalt](https://www.imdb.com/title/tt1075419/)                  |Evi Stöbermann   |Amazon Video/iTunes |
 |[Brazil](https://www.imdb.com/title/tt0088846/)                            |Evi Stöbermann   |Prime               |
@@ -42,7 +42,7 @@
 |[Der Mann der zuviel wusste](https://www.imdb.com/title/tt0049470/)        |Evi Stöbermann   |DVD (verfügbar)     |
 |[Psycho](https://www.imdb.com/title/tt0054215/)                            |Evi Stöbermann   |DVD (verfügbar)     |
 |[Vertigo](https://www.imdb.com/title/tt0052357/)                           |Evi Stöbermann   |DVD (verfügbar)     |
-|[Umleitung](https://www.imdb.com/title/tt0037638/)                         |Evi Stöbermann   |???                 |
+|[Umleitung (1945)](https://www.imdb.com/title/tt0037638/)                  |Evi Stöbermann   |???                 |
 |[2001: Odyssey im Weltraum](https://www.imdb.com/title/tt0062622/)         |Evi Stöbermann   |Netflix             |
 |[Dr. Strangelove](https://www.imdb.com/title/tt0057012/)                   |Evi Stöbermann   |Prime               |
 |[Paths of Glory](https://www.imdb.com/title/tt0050825/)                    |Evi Stöbermann   |Amazon Video/iTunes |
@@ -57,5 +57,7 @@
 |[Spiral/Uzumaki](https://www.imdb.com/title/tt0244870/)                    |Evi Stöbermann   |???                 |
 |[Long Dream](https://www.imdb.com/title/tt0390290/)                        |Evi Stöbermann   |???                 |
 |[Dreamscape](https://www.imdb.com/title/tt0087175/)                        |Evi Stöbermann   |DVD                 |
+|[Teheran Tabu](https://www.imdb.com/title/tt5584796/)                      |Evi Stöbermann   |???                 |
+
 
 
