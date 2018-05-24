@@ -69,6 +69,10 @@
 |[Persepolis](https://www.imdb.com/title/tt0808417/)                        |Evi Stöbermann   |iTunes/Amazon Video |
 |[Malcolm X](https://www.imdb.com/title/tt0104797/)                         |Evi Stöbermann   |iTunes/Amazon Video |
 |[I Am Not Your Negro](https://www.imdb.com/title/tt5804038/)               |Evi Stöbermann   |iTunes/Amazon Video |
+|[Predestination](https://www.imdb.com/title/tt2397535/)                    |Evi Stöbermann   |Prime               |
+|[Coherence](https://www.imdb.com/title/tt2866360/)                         |Evi Stöbermann   |iTunes/Amazon Video |
+|[The Party](https://www.imdb.com/title/tt5814592/)                         |Evi Stöbermann   |iTunes/Amazon Video |
+ 
 
 
 
