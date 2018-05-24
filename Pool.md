@@ -69,8 +69,7 @@
 |[Persepolis](https://www.imdb.com/title/tt0808417/)                        |Evi Stöbermann   |iTunes/Amazon Video |
 |[Malcolm X](https://www.imdb.com/title/tt0104797/)                         |Evi Stöbermann   |iTunes/Amazon Video |
 |[I Am Not Your Negro](https://www.imdb.com/title/tt5804038/)               |Evi Stöbermann   |iTunes/Amazon Video |
-|[Roots (2016)](https://www.imdb.com/title/tt3315386/)                      |Evi Stöbermann   |eBay                |
-|[Atlanta](https://www.imdb.com/title/tt4288182/)                           |Evi Stöbermann   |iTunes/Amazon Video |
+
 
 
 
