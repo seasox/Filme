@@ -3,7 +3,7 @@
 |Guter/Interessanter/Interlektueller Reschisseur                            |Vorgeschlagen von|
 |---------------------------------------------------------------------------|-----------------|
 |[David Lynch](https://www.imdb.com/name/nm0000186/)                        |Evi Stöbermann   |
-|[Stanley Kubrick] (https://www.imdb.com/name/nm0000040/)                   |Evi Stöbermann   |
+|[Stanley Kubrick](https://www.imdb.com/name/nm0000040/)                    |Evi Stöbermann   |
 |[Billy Wilder](https://www.imdb.com/name/nm0000697/)                       |Evi Stöbermann   |
 |[Sion Sono](https://www.imdb.com/name/nm0814469/)                          |Evi Stöbermann   |
 |[Helmut Käutner](https://www.imdb.com/name/nm0477702/)                     |Evi Stöbermann   |
