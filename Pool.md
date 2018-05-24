@@ -62,6 +62,18 @@
 |[Fitzcarraldo](https://www.imdb.com/title/tt0083946/)                      |Evi Stöbermann   |Prime               |
 |[The Whispering Star](https://www.imdb.com/title/tt4957538/)               |Evi Stöbermann   |Amazon Video/iTunes |
 |[V for Vendetta](https://www.imdb.com/title/tt0434409/)                    |Evi Stöbermann   |iTunes (verfügbar)  |
+|[National Bird](https://www.imdb.com/title/tt0434409/)                     |Jeremy           |iTunes              |
+|[The Stepford Wives](https://www.imdb.com/title/tt0327162/)                |Evi Stöbermann   |iTunes/Amazon Video |
+|[Contact](https://www.imdb.com/title/tt0118884/)                           |Evi Stöbermann   |iTunes/Amazon Video |
+|[Waltz With Bashir](https://www.imdb.com/title/tt1185616/)                 |Evi Stöbermann   |iTunes/Amazon Video |
+|[Persepolis](https://www.imdb.com/title/tt0808417/)                        |Evi Stöbermann   |iTunes/Amazon Video |
+|[Malcolm X](https://www.imdb.com/title/tt0104797/)                         |Evi Stöbermann   |iTunes/Amazon Video |
+|[I Am Not Your Negro](https://www.imdb.com/title/tt5804038/)               |Evi Stöbermann   |iTunes/Amazon Video |
+|[Roots (2016)](https://www.imdb.com/title/tt3315386/)                      |Evi Stöbermann   |eBay                |
+|[Atlanta](https://www.imdb.com/title/tt4288182/)                           |Evi Stöbermann   |iTunes/Amazon Video |
+
+
+
 
 
 
