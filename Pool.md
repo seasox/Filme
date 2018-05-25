@@ -21,7 +21,7 @@
 |[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann   |DVD (verfügbar)     |
 |[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |Amazon Video/iTunes |
 |[mother!](https://www.imdb.com/title/tt5109784/)                           |Evi Stöbermann   |Amazon Video/iTunes |
-|[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |noch kein Release   |
+|[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |ami amazon          |
 |[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
 |[Stadt der Gewalt](https://www.imdb.com/title/tt1075419/)                  |Evi Stöbermann   |Amazon Video/iTunes |
 |[Brazil](https://www.imdb.com/title/tt0088846/)                            |Evi Stöbermann   |Prime               |
@@ -42,15 +42,38 @@
 |[Der Mann der zuviel wusste](https://www.imdb.com/title/tt0049470/)        |Evi Stöbermann   |DVD (verfügbar)     |
 |[Psycho](https://www.imdb.com/title/tt0054215/)                            |Evi Stöbermann   |DVD (verfügbar)     |
 |[Vertigo](https://www.imdb.com/title/tt0052357/)                           |Evi Stöbermann   |DVD (verfügbar)     |
-|[Umleitung](https://www.imdb.com/title/tt0037638/)                         |Evi Stöbermann   |???                 |
+|[Umleitung (1945)](https://www.imdb.com/title/tt0037638/)                  |Evi Stöbermann   |???                 |
 |[2001: Odyssey im Weltraum](https://www.imdb.com/title/tt0062622/)         |Evi Stöbermann   |Netflix             |
 |[Dr. Strangelove](https://www.imdb.com/title/tt0057012/)                   |Evi Stöbermann   |Prime               |
 |[Paths of Glory](https://www.imdb.com/title/tt0050825/)                    |Evi Stöbermann   |Amazon Video/iTunes |
 |[Sunset Boulevard](https://www.imdb.com/title/tt0043014/)                  |Evi Stöbermann   |Prime               |
-|[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
 |[Casablanca](https://www.imdb.com/title/tt0034583/)                        |Evi Stöbermann   |Amazon Video/iTunes |
 |[I Kina spiser de hunde](https://www.imdb.com/title/tt0180748/)            |Ymerej           |Amazon Video (3,99) |
 |[De grønne slagtere](https://www.imdb.com/title/tt0342492/)                |Ymerej           |Amazon Video (3,99) |
 |[Se7en](https://www.imdb.com/title/tt0114369/)                             |Ymerej           |Netflix             |
 |[I Heart Huckabees](https://www.imdb.com/title/tt0356721/)                 |Ymerej           |Amazon Video (3,99) |
 |[Das schweigende Klassenzimmer](https://www.imdb.com/title/tt6576556/)     |Ymerej           |Kino :(             |
+|[The Big Lebowski](https://www.imdb.com/title/tt0118715/)                  |Evi Stöbermann   |Prime/Netflix       |
+|[Snowpiercer](https://www.imdb.com/title/tt1706620/)                       |Evi Stöbermann   |Prime/Netflix       |
+|[Nachtmahr](https://www.youtube.com/watch?v=xs9hZI4tNO8&pbjreload=10)      |Evi Stöbermann   |Amazon Video/iTunes |
+|[Source Code](https://www.imdb.com/title/tt0945513/)                       |Evi Stöbermann   |Prime/Netflix       |
+|[Munich](https://www.imdb.com/title/tt0408306/)                            |Evi Stöbermann   |Prime               |
+|[Minority Report](https://www.imdb.com/title/tt0181689/)                   |Evi Stöbermann   |Amazon Video/iTunes |
+|[Spiral/Uzumaki](https://www.imdb.com/title/tt0244870/)                    |Evi Stöbermann   |???                 |
+|[Long Dream](https://www.imdb.com/title/tt0390290/)                        |Evi Stöbermann   |???                 |
+|[Dreamscape](https://www.imdb.com/title/tt0087175/)                        |Evi Stöbermann   |DVD                 |
+|[Teheran Tabu](https://www.imdb.com/title/tt5584796/)                      |Evi Stöbermann   |???                 |
+|[The Day the Earth Stood Still](https://www.imdb.com/title/tt0043456/)     |Evi Stöbermann   |Amazon Video/iTunes |
+|[Fitzcarraldo](https://www.imdb.com/title/tt0083946/)                      |Evi Stöbermann   |Prime               |
+|[The Whispering Star](https://www.imdb.com/title/tt4957538/)               |Evi Stöbermann   |Amazon Video/iTunes |
+|[V for Vendetta](https://www.imdb.com/title/tt0434409/)                    |Evi Stöbermann   |iTunes (verfügbar)  |
+|[National Bird](https://www.imdb.com/title/tt0434409/)                     |Jeremy           |iTunes              |
+|[The Stepford Wives](https://www.imdb.com/title/tt0327162/)                |Evi Stöbermann   |iTunes/Amazon Video |
+|[Contact](https://www.imdb.com/title/tt0118884/)                           |Evi Stöbermann   |iTunes/Amazon Video |
+|[Waltz With Bashir](https://www.imdb.com/title/tt1185616/)                 |Evi Stöbermann   |iTunes/Amazon Video |
+|[Persepolis](https://www.imdb.com/title/tt0808417/)                        |Evi Stöbermann   |iTunes/Amazon Video |
+|[Malcolm X](https://www.imdb.com/title/tt0104797/)                         |Evi Stöbermann   |iTunes/Amazon Video |
+|[I Am Not Your Negro](https://www.imdb.com/title/tt5804038/)               |Evi Stöbermann   |iTunes/Amazon Video |
+|[Predestination](https://www.imdb.com/title/tt2397535/)                    |Evi Stöbermann   |Prime               |
+|[Coherence](https://www.imdb.com/title/tt2866360/)                         |Evi Stöbermann   |iTunes/Amazon Video |
+|[The Party](https://www.imdb.com/title/tt5814592/)                         |Evi Stöbermann   |iTunes/Amazon Video |
