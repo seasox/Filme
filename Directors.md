@@ -1,6 +1,6 @@
 # Directors
 
-|Guter/Interessanter/Interlektueller Reschisseur                            |Vorgeschlagen von|
+|Gute*r/Interessante*r/Interlektuelle*r Reschisseur*in                      |Vorgeschlagen von|
 |---------------------------------------------------------------------------|-----------------|
 |[David Lynch](https://www.imdb.com/name/nm0000186/)                        |Evi Stöbermann   |
 |[Stanley Kubrick](https://www.imdb.com/name/nm0000040/)                    |Evi Stöbermann   |
