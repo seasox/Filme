@@ -77,3 +77,5 @@
 |[Predestination](https://www.imdb.com/title/tt2397535/)                    |Evi Stöbermann   |Prime               |
 |[Coherence](https://www.imdb.com/title/tt2866360/)                         |Evi Stöbermann   |iTunes/Amazon Video |
 |[The Party](https://www.imdb.com/title/tt5814592/)                         |Evi Stöbermann   |iTunes/Amazon Video |
+|[Der Pate](https://www.imdb.com/title/tt0068646/)                          |ymereJ           |Netflix             |
+|[Das Schweigen der Lämmer](https://www.imdb.com/title/tt0102926/)          |Evi Stöbermann   |Netflix             |
