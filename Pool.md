@@ -78,3 +78,5 @@
 |[Coherence](https://www.imdb.com/title/tt2866360/)                         |Evi Stöbermann   |iTunes/Amazon Video |
 |[The Party](https://www.imdb.com/title/tt5814592/)                         |Evi Stöbermann   |iTunes/Amazon Video |
 |[American History X](https://www.imdb.com/title/tt0120586/)                |Jeremy           |Amazon Video        |
+|[Der Pate](https://www.imdb.com/title/tt0068646/)                          |ymereJ           |Netflix             |
+|[Das Schweigen der Lämmer](https://www.imdb.com/title/tt0102926/)          |Evi Stöbermann   |Netflix             |
