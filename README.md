@@ -6,5 +6,4 @@
 |[Fight Club](https://www.imdb.com/title/tt0137523)                         |Jeremy           |Prime               |
 |[Palermo Shooting](https://www.imdb.com/title/tt1008017/)                  |Jonas            |Amazon Video/iTunes |
 |[Das Leben ist schön](https://www.imdb.com/title/tt0118799/)               |Evi Stöbermann   |Prime               |
-|[Metropolis](https://www.imdb.com/title/tt0017136/)                        |Evi Stöbermann   |DVD (verfügbar)     |
 |[Full Metal Jacket](https://www.imdb.com/title/tt0093058/)                 |Jeremy           |Netflix             |
