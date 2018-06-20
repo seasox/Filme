@@ -3,6 +3,7 @@
 |Gute_r/Interessante_r/Interlektuelle_r Reschisseur_in                      |Vorgeschlagen von|
 |---------------------------------------------------------------------------|-----------------|
 |[David Lynch](https://www.imdb.com/name/nm0000186/)                        |Evi Stöbermann   |
+|[Luis Buñuel](https://www.imdb.com/name/nm0000320/)                        |Evi Stöbermann   |
 |[Stanley Kubrick](https://www.imdb.com/name/nm0000040/)                    |Evi Stöbermann   |
 |[Billy Wilder](https://www.imdb.com/name/nm0000697/)                       |Evi Stöbermann   |
 |[Sion Sono](https://www.imdb.com/name/nm0814469/)                          |Evi Stöbermann   |
