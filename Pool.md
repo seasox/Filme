@@ -17,7 +17,6 @@
 |[Pulp Fiction](https://www.imdb.com/title/tt0110912/)                      |Evi Stöbermann   |Netflix             |
 |[From Dusk Till Dawn](https://www.imdb.com/title/tt0116367/)               |Evi Stöbermann   |Amazon Video/iTunes |
 |[Blues Brothers](https://www.imdb.com/title/tt0080455/)                    |Evi Stöbermann   |DVD (verfügbar)     |
-|[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann   |DVD (verfügbar)     |
 |[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |Amazon Video/iTunes |
 |[mother!](https://www.imdb.com/title/tt5109784/)                           |Evi Stöbermann   |Amazon Video/iTunes |
 |[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |ami amazon          |
