@@ -9,7 +9,6 @@
 |[Stay](https://www.imdb.com/title/tt0371257/)                              |Evi Stöbermann   |Amazon Video/iTunes |
 |[Der Himmel über Berlin](https://www.imdb.com/title/tt0093191/)            |Evi Stöbermann   |iTunes (verfügbar)  |
 |[The Killing of a Sacred Deer](https://www.imdb.com/title/tt5715874/)      |Evi Stöbermann   |Amazon Video/iTunes |
-|[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/)|Evi Stöbermann   |iTunes (verfügbar)  |
 |[Ex Machina](https://www.imdb.com/title/tt0470752/)                        |Evi Stöbermann   |DVD (verfügbar)     |
 |[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Evi Stöbermann   |iTunes (verfügbar)  |
 |[Blue Velvet](https://www.imdb.com/title/tt0090756/)                       |Evi Stöbermann   |DVD (verfügbar)     |
@@ -52,7 +51,7 @@
 |[Se7en](https://www.imdb.com/title/tt0114369/)                             |Ymerej           |Netflix             |
 |[I Heart Huckabees](https://www.imdb.com/title/tt0356721/)                 |Ymerej           |Amazon Video (3,99) |
 |[Das schweigende Klassenzimmer](https://www.imdb.com/title/tt6576556/)     |Ymerej           |Kino :(             |
-|[The Big Lebowski](https://www.imdb.com/title/tt0118715/)                  |Evi Stöbermann   |Prime/Netflix       |
+|[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/)|Evi Stöbermann   |iTunes (verfügbar)  |
 |[Snowpiercer](https://www.imdb.com/title/tt1706620/)                       |Evi Stöbermann   |Prime/Netflix       |
 |[Nachtmahr](https://www.youtube.com/watch?v=xs9hZI4tNO8&pbjreload=10)      |Evi Stöbermann   |Amazon Video/iTunes |
 |[Source Code](https://www.imdb.com/title/tt0945513/)                       |Evi Stöbermann   |Prime/Netflix       |
