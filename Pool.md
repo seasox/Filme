@@ -79,3 +79,4 @@
 |[Der Pate](https://www.imdb.com/title/tt0068646/)                          |ymereJ           |Netflix             |
 |[Das Schweigen der Lämmer](https://www.imdb.com/title/tt0102926/)          |Evi Stöbermann   |Netflix             |
 |[Prestige](https://www.imdb.com/title/tt0482571/)                          |Evi Stöbermann   |iTunes (verfügbar)  |
+|[Absolute Giganten](https://www.imdb.com/title/tt0177507/)                 |Jonas            |Prime Video         |
