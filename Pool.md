@@ -51,7 +51,6 @@
 |[Se7en](https://www.imdb.com/title/tt0114369/)                             |Ymerej           |Netflix             |
 |[I Heart Huckabees](https://www.imdb.com/title/tt0356721/)                 |Ymerej           |Amazon Video (3,99) |
 |[Das schweigende Klassenzimmer](https://www.imdb.com/title/tt6576556/)     |Ymerej           |Kino :(             |
-|[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/)|Evi Stöbermann   |iTunes (verfügbar)  |
 |[Snowpiercer](https://www.imdb.com/title/tt1706620/)                       |Evi Stöbermann   |Prime/Netflix       |
 |[Nachtmahr](https://www.youtube.com/watch?v=xs9hZI4tNO8&pbjreload=10)      |Evi Stöbermann   |Amazon Video/iTunes |
 |[Source Code](https://www.imdb.com/title/tt0945513/)                       |Evi Stöbermann   |Prime/Netflix       |
