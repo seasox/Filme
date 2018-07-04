@@ -3,6 +3,8 @@
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
+|[Enter the Void](https://www.imdb.com/title/tt1191111/)                    |Evi Stöbermann   |Amazon Video        |
+|[Stalker](https://www.imdb.com/title/tt0079944/)                           |Evi Stöbermann   |Amazon Video/iTunes |
 |[Dead Man](https://www.imdb.com/title/tt0112817/)                          |Evi Stöbermann   |DVD (verfügbar)     |
 |[Night on Earth](https://www.imdb.com/title/tt0102536/)                    |Evi Stöbermann   |DVD (verfügbar)     |
 |[Down by Law](https://www.imdb.com/title/tt0090967/)                       |Evi Stöbermann   |iTunes              |
