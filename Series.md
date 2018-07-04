@@ -7,4 +7,4 @@
 |[Atlanta](https://www.imdb.com/title/tt4288182/)             |Surreale Comedy|Evi Stöbermann|iTunes/Amazon Video |
 |[Arrested Development](https://www.imdb.com/title/tt0367279/)|Comedy         |Evi Stöbermann|Netflix             |
 |[Hotel Room](https://www.imdb.com/title/tt0106029/)          |Psycho-Drama   |Evi Stöbermann|Youtube             |
-|[Rabbits](https://www.imdb.com/title/tt0106029/)             |Surreale Comedy|Evi Stöbermann|Youtube             |
+|[Rabbits](https://www.imdb.com/title/tt0347840/)             |Surreale Comedy|Evi Stöbermann|Youtube             |
