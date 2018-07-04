@@ -3,6 +3,9 @@
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
+|[Dieses obskure Objekt der Begierde](https://www.imdb.com/title/tt0075824/)|Evi Stöbermann   |Prime               |
+|[Das Gespenst der Freiheit](https://www.imdb.com/title/tt0071487/)         |Evi Stöbermann   |iTunes              |
+|[Der diskrete Charme der Bourgeoisie](https://www.imdb.com/title/tt0068361/)|Evi Stöbermann   |Amazon Video/iTunes |
 |[Enter the Void](https://www.imdb.com/title/tt1191111/)                    |Evi Stöbermann   |Amazon Video        |
 |[Stalker](https://www.imdb.com/title/tt0079944/)                           |Evi Stöbermann   |Amazon Video/iTunes |
 |[Dead Man](https://www.imdb.com/title/tt0112817/)                          |Evi Stöbermann   |DVD (verfügbar)     |
