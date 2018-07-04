@@ -3,6 +3,12 @@
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
+|[Dead Man](https://www.imdb.com/title/tt0112817/)                          |Evi Stöbermann   |DVD (verfügbar)     |
+|[Night on Earth](https://www.imdb.com/title/tt0102536/)                    |Evi Stöbermann   |DVD (verfügbar)     |
+|[Down by Law](https://www.imdb.com/title/tt0090967/)                       |Evi Stöbermann   |iTunes              |
+|[Children of Men](https://www.imdb.com/title/tt0206634/)                   |Evi Stöbermann   |iTunes/Amazon       |
+|[A Girl Walks Home Alone at Night](https://www.imdb.com/title/tt2326554/)  |Evi Stöbermann   |iTunes/Amazon       |
+|[Das Goldene Zeitalter](https://www.imdb.com/title/tt0021577/)             |Evi Stöbermann   |Youtube/DVD         |
 |[Phantastische Tierwesen](https://www.imdb.com/title/tt3183660/)           |Evi Stöbermann   |DVD (verfügbar)     |
 |[Bladerunner 2049](https://www.imdb.com/title/tt1856101/)                  |Evi Stöbermann   |Amazon Video/iTunes |
 |[Polytechnique](https://www.imdb.com/title/tt1194238/)                     |Evi Stöbermann   |DVD (kaufen)        |
