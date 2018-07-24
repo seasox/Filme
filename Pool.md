@@ -25,7 +25,6 @@
 |[Blue Velvet](https://www.imdb.com/title/tt0090756/)                       |Evi Stöbermann   |DVD (verfügbar)     |
 |[The Hateful Eight](https://www.imdb.com/title/tt3460252/)                 |Evi Stöbermann   |Netflix             |
 |[Reservoir Dogs](https://www.imdb.com/title/tt0105236/)                    |Evi Stöbermann   |Amazon Video/iTunes |
-|[Pulp Fiction](https://www.imdb.com/title/tt0110912/)                      |Evi Stöbermann   |Netflix             |
 |[From Dusk Till Dawn](https://www.imdb.com/title/tt0116367/)               |Evi Stöbermann   |Amazon Video/iTunes |
 |[Blues Brothers](https://www.imdb.com/title/tt0080455/)                    |Evi Stöbermann   |DVD (verfügbar)     |
 |[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |Amazon Video/iTunes |
