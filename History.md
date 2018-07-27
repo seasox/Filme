@@ -2,6 +2,7 @@
 
 |Filmname                                                                   |Vorgeschlagen von|Bewertung Jos   |  Jer  |  Jon  |
 |---------------------------------------------------------------------------|-----------------|----------------|-------|-------|
+|[Close Encounters of the Third Kind](https://www.imdb.com/title/tt0075860/)|Evi Stöbermann   |                | 🛸😴  |       |
 |[Fight Club](https://www.imdb.com/title/tt0137523)                         |Jeremy           |                | 👊😴  |       |
 |[Donnie Darko](https://www.imdb.com/title/tt0246578/)                      |Jonas            |😊              |       |       |
 |[The Double](https://www.imdb.com/title/tt1825157/)                        |Evi Stöbermann   |😊              |  🤨   |       |
