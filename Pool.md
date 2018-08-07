@@ -3,6 +3,7 @@
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
+|[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
 |[Dieses obskure Objekt der Begierde](https://www.imdb.com/title/tt0075824/)|Evi Stöbermann   |Prime               |
 |[Das Gespenst der Freiheit](https://www.imdb.com/title/tt0071487/)         |Evi Stöbermann   |iTunes              |
 |[Der diskrete Charme der Bourgeoisie](https://www.imdb.com/title/tt0068361/)|Evi Stöbermann   |Amazon Video/iTunes |
@@ -27,7 +28,6 @@
 |[Reservoir Dogs](https://www.imdb.com/title/tt0105236/)                    |Evi Stöbermann   |Amazon Video/iTunes |
 |[From Dusk Till Dawn](https://www.imdb.com/title/tt0116367/)               |Evi Stöbermann   |Amazon Video/iTunes |
 |[Blues Brothers](https://www.imdb.com/title/tt0080455/)                    |Evi Stöbermann   |DVD (verfügbar)     |
-|[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |Amazon Video/iTunes |
 |[mother!](https://www.imdb.com/title/tt5109784/)                           |Evi Stöbermann   |Amazon Video/iTunes |
 |[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |ami amazon          |
 |[Stadt der Gewalt](https://www.imdb.com/title/tt1075419/)                  |Evi Stöbermann   |Amazon Video/iTunes |
