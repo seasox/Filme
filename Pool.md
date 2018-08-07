@@ -30,7 +30,6 @@
 |[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |Amazon Video/iTunes |
 |[mother!](https://www.imdb.com/title/tt5109784/)                           |Evi Stöbermann   |Amazon Video/iTunes |
 |[Thelma](https://www.imdb.com/title/tt6304046/)                            |Evi Stöbermann   |ami amazon          |
-|[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
 |[Stadt der Gewalt](https://www.imdb.com/title/tt1075419/)                  |Evi Stöbermann   |Amazon Video/iTunes |
 |[Brazil](https://www.imdb.com/title/tt0088846/)                            |Evi Stöbermann   |Prime               |
 |[Shutter Island](https://www.imdb.com/title/tt1130884/)                    |Evi Stöbermann   |DVD (verfügbar)     |
