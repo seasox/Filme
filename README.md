@@ -7,4 +7,3 @@
 |[Full Metal Jacket](https://www.imdb.com/title/tt0093058/)                 |Jeremy                  |Netflix             |
 |[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann          |DVD (verfügbar)     |
 |[The Departed](https://www.imdb.com/title/tt0407887/)                      |Jonas                   |Netflix             |
-|[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann          |Amazon Video/iTunes |

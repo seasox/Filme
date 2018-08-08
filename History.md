@@ -12,3 +12,4 @@
 |[Das Leben ist schön](https://www.imdb.com/title/tt0118799/)               |Evi Stöbermann   |😢              |  😢   |       |
 |[The Big Lebowski](https://www.imdb.com/title/tt0118715/)                  |Evi Stöbermann   |😅              |  😅   |       |
 |[Palermo Shooting](https://www.imdb.com/title/tt1008017/)                  |Jonas            |                |  📸   |       |
+|[La Grande Belezza](https://www.imdb.com/title/tt2358891/)                 |Evi Stöbermann   |                | 🤓🦒  |       |
