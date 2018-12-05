@@ -2,11 +2,12 @@
 
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
+|[The Departed](https://www.imdb.com/title/tt0407887/)                      |Jonas                   |Netflix             |
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
-|[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
+|[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann   |DVD (verfügbar)     |
 |[Dieses obskure Objekt der Begierde](https://www.imdb.com/title/tt0075824/)|Evi Stöbermann   |Prime               |
 |[Das Gespenst der Freiheit](https://www.imdb.com/title/tt0071487/)         |Evi Stöbermann   |iTunes              |
-|[Der diskrete Charme der Bourgeoisie](https://www.imdb.com/title/tt0068361/)|Evi Stöbermann   |Amazon Video/iTunes |
+|[Der diskrete Charme der Bourgeoisie](https://www.imdb.com/title/tt0068361/)|Evi Stöbermann  |Amazon Video/iTunes |
 |[Enter the Void](https://www.imdb.com/title/tt1191111/)                    |Evi Stöbermann   |Amazon Video        |
 |[Stalker](https://www.imdb.com/title/tt0079944/)                           |Evi Stöbermann   |Amazon Video/iTunes |
 |[Dead Man](https://www.imdb.com/title/tt0112817/)                          |Evi Stöbermann   |DVD (verfügbar)     |
@@ -21,8 +22,6 @@
 |[Stay](https://www.imdb.com/title/tt0371257/)                              |Evi Stöbermann   |Amazon Video/iTunes |
 |[Der Himmel über Berlin](https://www.imdb.com/title/tt0093191/)            |Evi Stöbermann   |iTunes (verfügbar)  |
 |[The Killing of a Sacred Deer](https://www.imdb.com/title/tt5715874/)      |Evi Stöbermann   |Amazon Video/iTunes |
-|[Ex Machina](https://www.imdb.com/title/tt0470752/)                        |Evi Stöbermann   |DVD (verfügbar)     |
-|[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Evi Stöbermann   |iTunes (verfügbar)  |
 |[Blue Velvet](https://www.imdb.com/title/tt0090756/)                       |Evi Stöbermann   |DVD (verfügbar)     |
 |[The Hateful Eight](https://www.imdb.com/title/tt3460252/)                 |Evi Stöbermann   |Netflix             |
 |[Reservoir Dogs](https://www.imdb.com/title/tt0105236/)                    |Evi Stöbermann   |Amazon Video/iTunes |
