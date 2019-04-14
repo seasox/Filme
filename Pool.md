@@ -2,6 +2,8 @@
 
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
+|[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann   |Blu-Ray (verfügbar) |
+|[Climax](https://www.imdb.com/title/tt5691670/)                            |Evi Stöbermann   |iTunes 4.99         |
 |[The Departed](https://www.imdb.com/title/tt0407887/)                      |Jonas            |Netflix             |
 |[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Evi Stöbermann   |iTunes (verfügbar)  |
 |[Roma](https://www.imdb.com/title/tt6155172/)                              |Evi Stöbermann   |Netflix             |
