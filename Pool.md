@@ -4,6 +4,7 @@
 |---------------------------------------------------------------------------|-----------------|--------------------|
 |[The Departed](https://www.imdb.com/title/tt0407887/)                      |Jonas            |Netflix             |
 |[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Evi Stöbermann   |iTunes (verfügbar)  |
+|[Roma](https://www.imdb.com/title/tt6155172/)                              |Evi Stöbermann   |Netflix             |
 |[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
 |[Dieses obskure Objekt der Begierde](https://www.imdb.com/title/tt0075824/)|Evi Stöbermann   |Prime               |
