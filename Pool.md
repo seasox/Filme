@@ -2,9 +2,10 @@
 
 |Filmname                                                                   |Vorgeschlagen von|Verfügbar auf       |
 |---------------------------------------------------------------------------|-----------------|--------------------|
-|[The Departed](https://www.imdb.com/title/tt0407887/)                      |Jonas                   |Netflix             |
+|[The Departed](https://www.imdb.com/title/tt0407887/)                      |Jonas            |Netflix             |
+|[Oldboy](https://www.imdb.com/title/tt0364569/)                            |Evi Stöbermann   |iTunes (verfügbar)  |
+|[Divines](https://www.imdb.com/title/tt4730986/)                           |Evi Stöbermann   |Netflix             |
 |[Enemy](https://www.imdb.com/title/tt2316411/)                             |Evi Stöbermann   |Amazon Video/iTunes |
-|[Pan's Labyrinth](https://www.imdb.com/title/tt0457430/)                   |Evi Stöbermann   |DVD (verfügbar)     |
 |[Dieses obskure Objekt der Begierde](https://www.imdb.com/title/tt0075824/)|Evi Stöbermann   |Prime               |
 |[Das Gespenst der Freiheit](https://www.imdb.com/title/tt0071487/)         |Evi Stöbermann   |iTunes              |
 |[Der diskrete Charme der Bourgeoisie](https://www.imdb.com/title/tt0068361/)|Evi Stöbermann  |Amazon Video/iTunes |
@@ -19,7 +20,6 @@
 |[Phantastische Tierwesen](https://www.imdb.com/title/tt3183660/)           |Evi Stöbermann   |DVD (verfügbar)     |
 |[Bladerunner 2049](https://www.imdb.com/title/tt1856101/)                  |Evi Stöbermann   |Amazon Video/iTunes |
 |[Polytechnique](https://www.imdb.com/title/tt1194238/)                     |Evi Stöbermann   |DVD (kaufen)        |
-|[Stay](https://www.imdb.com/title/tt0371257/)                              |Evi Stöbermann   |Amazon Video/iTunes |
 |[Der Himmel über Berlin](https://www.imdb.com/title/tt0093191/)            |Evi Stöbermann   |iTunes (verfügbar)  |
 |[The Killing of a Sacred Deer](https://www.imdb.com/title/tt5715874/)      |Evi Stöbermann   |Amazon Video/iTunes |
 |[Blue Velvet](https://www.imdb.com/title/tt0090756/)                       |Evi Stöbermann   |DVD (verfügbar)     |
@@ -42,7 +42,6 @@
 |[Ich seh, ich seh](https://www.imdb.com/title/tt3086442/)                  |Evi Stöbermann   |Amazon Video/iTunes |
 |[The Shining](https://www.imdb.com/title/tt0081505/)                       |Evi Stöbermann   |Netflix             |
 |[Chi-Raq](https://www.imdb.com/title/tt4594834/)                           |Evi Stöbermann   |Prime               |
-|[Nightcrawler](https://www.imdb.com/title/tt4594834/)                      |Evi Stöbermann   |Amazon Video/iTunes |
 |[Jazzclub](https://www.imdb.com/title/tt0388458/)                          |Evi Stöbermann   |DVD (verfügbar)     |
 |[00 Schneider](https://www.imdb.com/title/tt0109000/)                      |Evi Stöbermann   |DVD (verfügbar)     |
 |[Der Mann der zuviel wusste](https://www.imdb.com/title/tt0049470/)        |Evi Stöbermann   |DVD (verfügbar)     |
@@ -57,7 +56,7 @@
 |[I Kina spiser de hunde](https://www.imdb.com/title/tt0180748/)            |Ymerej           |Amazon Video (3,99) |
 |[De grønne slagtere](https://www.imdb.com/title/tt0342492/)                |Ymerej           |Amazon Video (3,99) |
 |[Se7en](https://www.imdb.com/title/tt0114369/)                             |Ymerej           |Netflix             |
-|[I Heart Huckabees](https://www.imdb.com/title/tt0356721/)                 |Ymerej           |Amazon Video (3,99) |
+|[Pulp Fiction](https://www.imdb.com/title/tt0110912/)                      |Ymerej           |Netflix             |
 |[Das schweigende Klassenzimmer](https://www.imdb.com/title/tt6576556/)     |Ymerej           |Kino :(             |
 |[Snowpiercer](https://www.imdb.com/title/tt1706620/)                       |Evi Stöbermann   |Prime/Netflix       |
 |[Nachtmahr](https://www.youtube.com/watch?v=xs9hZI4tNO8&pbjreload=10)      |Evi Stöbermann   |Amazon Video/iTunes |
